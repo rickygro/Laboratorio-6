@@ -1,0 +1,61 @@
+/* Estilo general para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para el encabezado */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilo para el título principal */
+header h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+/* Estilo para la barra de navegación */
+nav ul {
+    list-style: none;
+    padding: 0;
+    background-color: #333;
+    text-align: center;
+}
+
+/* Estilo para los elementos de la barra de navegación */
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+/* Estilo para los enlaces de navegación */
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Estilo para las secciones */
+section {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Estilo para los títulos de sección */
+section h2 {
+    font-size: 24px;
+    margin: 0;
+}
+
+/* Estilo para el contenido de las secciones */
+section p {
+    font-size: 16px;
+    margin: 10px 0;
+}
